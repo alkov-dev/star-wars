@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/star-wars/static/css/main.b0f88f1d.chunk.css",
+    "main.js": "/star-wars/static/js/main.b40e9341.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.b40e9341.chunk.js.map",
+    "runtime-main.js": "/star-wars/static/js/runtime-main.fabbe7db.js",
+    "runtime-main.js.map": "/star-wars/static/js/runtime-main.fabbe7db.js.map",
+    "static/js/2.f5e63166.chunk.js": "/star-wars/static/js/2.f5e63166.chunk.js",
+    "static/js/2.f5e63166.chunk.js.map": "/star-wars/static/js/2.f5e63166.chunk.js.map",
+    "static/css/3.0e74e9b1.chunk.css": "/star-wars/static/css/3.0e74e9b1.chunk.css",
+    "static/js/3.1ed86b6f.chunk.js": "/star-wars/static/js/3.1ed86b6f.chunk.js",
+    "static/js/3.1ed86b6f.chunk.js.map": "/star-wars/static/js/3.1ed86b6f.chunk.js.map",
+    "index.html": "/star-wars/index.html",
+    "static/css/3.0e74e9b1.chunk.css.map": "/star-wars/static/css/3.0e74e9b1.chunk.css.map",
+    "static/css/main.b0f88f1d.chunk.css.map": "/star-wars/static/css/main.b0f88f1d.chunk.css.map",
+    "static/js/2.f5e63166.chunk.js.LICENSE.txt": "/star-wars/static/js/2.f5e63166.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.db6cd627.svg": "/star-wars/static/media/arrow-left.db6cd627.svg",
+    "static/media/bookmark.cd406be5.svg": "/star-wars/static/media/bookmark.cd406be5.svg",
+    "static/media/cancel.1d37b349.svg": "/star-wars/static/media/cancel.1d37b349.svg",
+    "static/media/dark-side.e0f8cab7.jpg": "/star-wars/static/media/dark-side.e0f8cab7.jpg",
+    "static/media/droid.de165dd8.svg": "/star-wars/static/media/droid.de165dd8.svg",
+    "static/media/error_404.6ef12178.png": "/star-wars/static/media/error_404.6ef12178.png",
+    "static/media/falcon.c1d0a8d1.jpg": "/star-wars/static/media/falcon.c1d0a8d1.jpg",
+    "static/media/favorite1.5242f179.svg": "/star-wars/static/media/favorite1.5242f179.svg",
+    "static/media/favorite2.4f143788.svg": "/star-wars/static/media/favorite2.4f143788.svg",
+    "static/media/han-solo.db435084.mp4": "/star-wars/static/media/han-solo.db435084.mp4",
+    "static/media/light-side.eebc5217.jpg": "/star-wars/static/media/light-side.eebc5217.jpg",
+    "static/media/lightsaber.eb7d4cd6.svg": "/star-wars/static/media/lightsaber.eb7d4cd6.svg",
+    "static/media/loader_black.38a93f63.svg": "/star-wars/static/media/loader_black.38a93f63.svg",
+    "static/media/loader_blue.f42e765d.svg": "/star-wars/static/media/loader_blue.f42e765d.svg",
+    "static/media/loader_white.be69e7a9.svg": "/star-wars/static/media/loader_white.be69e7a9.svg",
+    "static/media/space-station.7a027c6e.svg": "/star-wars/static/media/space-station.7a027c6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fabbe7db.js",
+    "static/js/2.f5e63166.chunk.js",
+    "static/css/main.b0f88f1d.chunk.css",
+    "static/js/main.b40e9341.chunk.js"
+  ]
+}
