@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage": "https://alkov-dev.github.io/star-wars",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
